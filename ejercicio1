@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp-->
+        <div>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=dcWaqPXXQ2M">Porque ser sevillista es... ¡CREER que se puede y PODER!</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=uQfPD8tVjhw">En la cima de la Europa League de nuevo</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=Pp09xP1Jano">Ser del Sevilla es creer que se puede
+                    </a>
+                </li>
+            </ul>
+        </div>  
+    </body>
+</html>
