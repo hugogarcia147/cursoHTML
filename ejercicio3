@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ejercicio 3</title>
+    </head>
+    <body>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+        <img src="https://assets.stickpng.com/images/584ad291b519ea740933a8ba.png" alt="Escudo del Sevilla" width="300" height="350" />
+
+        <h1>Aprendiendo a utilizar los vídeos</h1>
+        <video width="300" height="300" autoplay muted loop controls>
+            <source src="../03_Multimedia/video/Oliver Atom vs Mark Evans. Épicas Batallas de Rap del Frikismo ¡Bonus! _ Keyblade.mp4" type="video/mp4" />
+        </video>
+
+        <h1>Aprendiendo a utilizar los audios</h1>
+        <audio controls autoplay loop>
+            <source src="../03_Multimedia/audio/Estoy hecho de pedacitos de ti (con Alejandro Fernández)_zvisX51IXZo.mp3" type="" />
+        </audio>
+    </body>
+</html>
