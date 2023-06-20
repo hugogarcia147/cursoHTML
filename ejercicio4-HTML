@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Lista de la compra</title>
+        <link rel="stylesheet" href="ejercicio4.css">
+    </head>
+    <body>
+        <h1 id="titulo" class="encabezado">Lista de la compra</h1>
+        <div>
+            <ul>
+                <li id="elemento-1">Pera</li>
+                <li id="elemento-2">Aceite</li>
+                <li id="elemento-3">Agua</li>
+                <li id="elemento-4">Coco</li>
+                <li id="elemento-5">Platano</li>
+            </ul>
+        </div>
+        <div>
+            <ol>           
+                <li id="elemento-1">Pan</li>
+                <li id="elemento-2">Lechuga</li>
+                <li id="elemento-3">Limon</li>
+                <li id="elemento-4">Manzana</li>
+                <li id="elemento-5">Aguacate</li>
+            </ol>
+        </div>
+    </body>
+</html>
