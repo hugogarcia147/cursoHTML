@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Disposición de elementos en CSS</title>
+        <link rel="stylesheet" href="ejercicio5.css">
+    </head>
+    <body>
+        <div>
+            <img class="imagen-galeria" src="https://img.freepik.com/fotos-premium/hermosa-cordillera-refleja-ia-generativa-aguas-tranquilas_188544-9117.jpg" alt="imagen1" />
+            <img class="imagen-galeria" src="https://images3.alphacoders.com/575/thumb-1920-575608.jpg" alt="imagen2" />
+            <img class="imagen-galeria" src="https://4kwallpapers.com/images/wallpapers/lost-in-space-alone-dream-deep-space-nebula-3840x2160-1053.jpg" alt="imagen3" />
+            <img class="imagen-galeria" src="https://www.xtrafondos.com/descargar.php?id=5846&resolucion=3840x2160" alt="imagen4" />
+            <img class="imagen-galeria" src="https://images5.alphacoders.com/523/thumb-1920-523521.jpg" alt="imagen5" />
+            <img class="imagen-galeria" src="https://fondosmil.com/fondo/49835.jpg" alt="imagen6" />
+        </div>
+    </body>
+</html>
