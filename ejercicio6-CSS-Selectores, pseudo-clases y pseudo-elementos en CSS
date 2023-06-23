@@ -13,7 +13,7 @@
     display: none;
 }
 
-#checkbox:checked + #boton:after {
+#checkbox:checked + #boton::after {
     content: "¡Hecho!";
     position: absolute;
     top: 0;
