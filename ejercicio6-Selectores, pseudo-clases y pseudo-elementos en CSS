@@ -1,0 +1,37 @@
+#boton:hover {
+    color: white;
+    background-color: green;
+    cursor: pointer;
+}
+
+
+#boton {
+    position: relative;
+}
+
+#checkbox {
+    display: none;
+}
+
+#checkbox:checked + #boton:after {
+    content: "¡Hecho!";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    background-color: green;
+    text-align: center;
+}
+
+.boton {
+    font-size: 10px;
+    font-family: Verdana,Helvetica;
+    font-weight: bold;
+    color: black;
+    background: #638cb5;
+    border: 0px;
+    width: 80px;
+    height: 19px;
+}
